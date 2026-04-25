@@ -1,19 +1,22 @@
-# 🧠 Kamus Terminologi Teknologi
+# Kamus Terminologi Teknologi
 
 Kamus terminologi teknologi yang mengonsolidasikan istilah-istilah baru dalam ekosistem digital. Dirancang sebagai referensi komprehensif bagi pendidik dan akademisi dalam menyampaikan materi teknologi yang relevan dan terkini.
 
-Diurutin dari yang paling lama muncul.
+Diurutin dari yang paling lama muncul. Ini bukan exhaustive list, jadi ga semua hal ada di sini. Lumayan buat bahan biar catch up sama kondisi tech sekarang.
 
 ---
+
+## Tabel Kategori
+Bisa diklik yg di istilah buat detil konteks-konteksnya
 
 | Kategori | Istilah |
 |----------|--------|
 | hardware | [GPU](#gpu) |
 | arsitektur | [Transformer](#transformer) |
 | konsep | [Fine-tuning](#fine-tuning), [Prompt](#prompt), [Hallucination](#hallucination), [RAG](#rag), [Context window](#context-window), [Inference](#inference), [Multimodal](#multimodal), [LoRA](#lora), [Chain of Thought](#chain-of-thought), [Prompt injection](#prompt-injection) |
-| model | [LLM](#llm), [Doubao](#doubao), [GPT](#gpt), [GLM / ChatGLM](#glm-chatglm), [Claude](#claude), [Kimi](#kimi), [Hermes](#hermes), [Qwen](#qwen), [SLM](#slm), [DeepSeek](#deepseek), [Reasoning model](#reasoning-model), [Gemini](#gemini), [Hunyuan](#hunyuan) |
+| model | [LLM](#llm), [Doubao](#doubao), [GPT](#gpt), [GLM](#glm-chatglm), [Claude](#claude), [Kimi](#kimi), [Hermes](#hermes), [Qwen](#qwen), [SLM](#slm), [DeepSeek](#deepseek), [Reasoning model](#reasoning-model), [Gemini](#gemini), [Hunyuan](#hunyuan) |
 | platform | [Hugging Face](#hugging-face) |
-| perusahaan | [Mistral](#mistral), [xAI / Grok](#xai-grok), [MiniMax](#minimax) |
+| perusahaan | [Mistral](#mistral), [Grok](#xai-grok), [MiniMax](#minimax) |
 | tool | [Ollama](#ollama), [Perplexity](#perplexity), [Cursor](#cursor), [Windsurf](#windsurf), [MCP](#mcp), [Claude Code](#claude-code), [Skill.md](#skillmd), [Trae](#trae), [Lovable](#lovable), [n8n](#n8n), [Agentic browser](#agentic-browser), [OpenClaw](#openclaw), [QwenPaw](#qwenpaw) |
 | workflow | [Agentic](#agentic), [Subagent](#subagent), [Vibe coding](#vibe-coding) |
 | protokol | [Agent2Agent (A2A)](#agent2agent-a2a) |
@@ -86,7 +89,7 @@ Konteks: Kepanjangan dari Generative Pre-trained Transformer ChatGPT yang bikin 
 
 * Link: <https://openai.com/chatgpt>
 
-### GLM / ChatGLM
+### GLM
 Kategori: model \
 Konteks: LLM open-source dari Zhipu AI, perusahaan spin-off dari Tsinghua University. kuat di bahasa Mandarin dan coding, masuk daftar model China yang bersaing ketat sama model barat
 
@@ -158,7 +161,7 @@ Konteks: AI yang ga cuma jawab pertanyaan, tapi bisa ngambil tindakan sendiri. k
 
 * Link: <https://www.anthropic.com/research/building-effective-agents>
 
-### xAI / Grok
+### Grok
 Kategori: perusahaan \
 Konteks: perusahaan AI-nya Elon Musk, modelnya namanya Grok. bedanya sama LLM lain, Grok punya akses real-time ke X/Twitter jadi tau berita paling baru
 
