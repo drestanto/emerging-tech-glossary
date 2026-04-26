@@ -1,4 +1,4 @@
-# 🧠 Kamus Terminologi Teknologi
+# Kamus Terminologi Teknologi
 
 Kamus terminologi teknologi yang mengonsolidasikan istilah-istilah baru dalam ekosistem digital. Dirancang sebagai referensi komprehensif bagi pendidik dan akademisi dalam menyampaikan materi teknologi yang relevan dan terkini.
 
@@ -16,7 +16,7 @@ Bisa diklik yg di istilah buat detil konteks-konteksnya
 | konsep | [Fine-tuning](#fine-tuning), [Prompt](#prompt), [Hallucination](#hallucination), [RAG](#rag), [Context window](#context-window), [Inference](#inference), [Multimodal](#multimodal), [LoRA](#lora), [Chain of Thought](#chain-of-thought), [Prompt injection](#prompt-injection) |
 | model | [LLM](#llm), [Doubao](#doubao), [GPT](#gpt), [GLM](#glm), [Claude](#claude), [Kimi](#kimi), [Hermes](#hermes), [Qwen](#qwen), [SLM](#slm), [DeepSeek](#deepseek), [Reasoning model](#reasoning-model), [Gemini](#gemini), [Hunyuan](#hunyuan) |
 | platform | [Hugging Face](#hugging-face) |
-| perusahaan | [Mistral](#mistral), [Grok](#grok), [MiniMax](#minimax) |
+| perusahaan | [Mistral](#mistral), [Grok](#grok), [MiniMax](#minimax), [OpenAI](#openai), [Anthropic](#anthropic), [Google DeepMind](#google-deepmind), [Meta AI](#meta-ai), [ByteDance](#bytedance), [Cohere](#cohere), [Sumopod](#sumopod), [OpenRouter](#openrouter) |
 | tool | [Ollama](#ollama), [Perplexity](#perplexity), [Cursor](#cursor), [Windsurf](#windsurf), [MCP](#mcp), [Claude Code](#claude-code), [Skill.md](#skillmd), [Trae](#trae), [Lovable](#lovable), [n8n](#n8n), [Agentic browser](#agentic-browser), [OpenClaw](#openclaw), [QwenPaw](#qwenpaw) |
 | workflow | [Agentic](#agentic), [Subagent](#subagent), [Vibe coding](#vibe-coding) |
 | protokol | [Agent2Agent (A2A)](#agent2agent-a2a) |
@@ -302,3 +302,51 @@ Bisa diklik yg di istilah buat detil konteks-konteksnya
 ---
 
 > Tau istilah yang harusnya masuk? Open a PR atau issue!
+
+### OpenAI
+<ins>**Kategori**</ins>: perusahaan
+
+<ins>**Konteks**</ins>: perusahaan di balik ChatGPT dan GPT series. bosnya Sam Altman, orangnya sering bikin heboh di Twitter. sempat dipecat dari OpenAI tapi balik lagi dalam 5 hari, drama banget
+> Link: <https://openai.com>
+
+### Anthropic
+<ins>**Kategori**</ins>: perusahaan
+
+<ins>**Konteks**</ins>: perusahaan di balik Claude. didirikan mantan orang-orang OpenAI yang keluar karena beda visi soal safety. jadi saingannya ya OpenAI, tapi vibes-nya lebih serius dan akademis
+> Link: <https://www.anthropic.com>
+
+### Google DeepMind
+<ins>**Kategori**</ins>: perusahaan
+
+<ins>**Konteks**</ins>: divisi AI-nya Google, gabungan Google Brain dan DeepMind. yang bikin Gemini. punya resource paling gede karena backing-nya ya Google
+> Link: <https://deepmind.google>
+
+### Meta AI
+<ins>**Kategori**</ins>: perusahaan
+
+<ins>**Konteks**</ins>: divisi AI-nya Meta alias Facebook. yang bikin Llama, LLM open-source yang jadi fondasi banyak model lain. Zuckerberg personally yang sering announce sendiri di Instagram
+> Link: <https://ai.meta.com>
+
+### ByteDance
+<ins>**Kategori**</ins>: perusahaan
+
+<ins>**Konteks**</ins>: perusahaan China di balik TikTok, Doubao, dan Trae. salah satu yang paling agresif ngeluarin AI tools, mungkin karena TikTok-nya lagi sering kena ancaman banned di US
+> Link: <https://www.bytedance.com>
+
+### Cohere
+<ins>**Kategori**</ins>: perusahaan
+
+<ins>**Konteks**</ins>: perusahaan AI yang fokus ke enterprise, bukan consumer. jadi ga se-hype ChatGPT tapi dipakai banyak perusahaan besar buat internal tools dan RAG
+> Link: <https://cohere.com>
+
+### Sumopod
+<ins>**Kategori**</ins>: perusahaan
+
+<ins>**Konteks**</ins>: platform buatan anak bangsa dari KodingWorks buat deploy container dan akses AI model API. hidden gem-nya Indo, dan yang paling penting: bisa bayar pakai QRIS
+> Link: <https://sumopod.com>
+
+### OpenRouter
+<ins>**Kategori**</ins>: perusahaan
+
+<ins>**Konteks**</ins>: konsepnya simpel, bayar sekali, bisa akses ratusan model dari satu API key. mau pakai Claude, GPT, Gemini, Llama, DeepSeek, tinggal ganti nama modelnya aja
+> Link: <https://openrouter.ai>
