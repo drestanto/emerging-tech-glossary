@@ -11,26 +11,22 @@ Bisa diklik yg di istilah buat detil konteks-konteksnya
 
 | Kategori | Istilah |
 |----------|--------|
-| hardware | [GPU](#gpu) |
-| arsitektur | [Transformer](#transformer) |
-| konsep | [Fine-tuning](#fine-tuning), [Prompt](#prompt), [Hallucination](#hallucination), [RAG](#rag), [Context window](#context-window), [Inference](#inference), [Multimodal](#multimodal), [LoRA](#lora), [Chain of Thought](#chain-of-thought), [Prompt injection](#prompt-injection) |
+| konsep | [GPU](#gpu), [Transformer](#transformer), [Fine-tuning](#fine-tuning), [Prompt](#prompt), [Hallucination](#hallucination), [RAG](#rag), [Context window](#context-window), [Inference](#inference), [Multimodal](#multimodal), [Agentic](#agentic), [Subagent](#subagent), [LoRA](#lora), [Chain of Thought](#chain-of-thought), [Vibe coding](#vibe-coding), [Prompt injection](#prompt-injection) |
 | model | [LLM](#llm), [Doubao](#doubao), [GPT](#gpt), [GLM](#glm), [Claude](#claude), [Kimi](#kimi), [Hermes](#hermes), [Qwen](#qwen), [SLM](#slm), [DeepSeek](#deepseek), [Reasoning model](#reasoning-model), [Gemini](#gemini), [Hunyuan](#hunyuan) |
-| platform | [Hugging Face](#hugging-face) |
+| tool | [Hugging Face](#hugging-face), [Ollama](#ollama), [Perplexity](#perplexity), [Cursor](#cursor), [Windsurf](#windsurf), [MCP](#mcp), [Claude Code](#claude-code), [Skill.md](#skillmd), [Trae](#trae), [Lovable](#lovable), [Agent2Agent (A2A)](#agent2agent-a2a), [n8n](#n8n), [Agentic browser](#agentic-browser), [OpenClaw](#openclaw), [QwenPaw](#qwenpaw) |
 | perusahaan | [Mistral](#mistral), [Grok](#grok), [MiniMax](#minimax), [OpenAI](#openai), [Anthropic](#anthropic), [Google DeepMind](#google-deepmind), [Meta AI](#meta-ai), [ByteDance](#bytedance), [Cohere](#cohere), [Sumopod](#sumopod), [OpenRouter](#openrouter) |
-| tool | [Ollama](#ollama), [Perplexity](#perplexity), [Cursor](#cursor), [Windsurf](#windsurf), [MCP](#mcp), [Claude Code](#claude-code), [Skill.md](#skillmd), [Trae](#trae), [Lovable](#lovable), [n8n](#n8n), [Agentic browser](#agentic-browser), [OpenClaw](#openclaw), [QwenPaw](#qwenpaw) |
-| workflow | [Agentic](#agentic), [Subagent](#subagent), [Vibe coding](#vibe-coding) |
-| protokol | [Agent2Agent (A2A)](#agent2agent-a2a) |
+
 
 ---
 
 ### GPU
-<ins>**Kategori**</ins>: hardware 
+<ins>**Kategori**</ins>: konsep 
 
 <ins>**Konteks**</ins>: chip yang awalnya dibuat buat rendering grafis game, ternyata jago banget ngerjain komputasi paralel yang dibutuhin buat training AI. sekarang jadi hardware paling dicari buat ngejalanin LLM
 > Link: <https://www.nvidia.com>
 
 ### Transformer
-<ins>**Kategori**</ins>: arsitektur 
+<ins>**Kategori**</ins>: konsep 
 
 <ins>**Konteks**</ins>: Salah satu model arsitektur neural network kebetulan ini yang jadi fondasi semua LLM modern sekarang
 > Link: <https://arxiv.org/abs/1706.03762>
@@ -72,7 +68,7 @@ Bisa diklik yg di istilah buat detil konteks-konteksnya
 > Link: <https://arxiv.org/abs/2005.11401>
 
 ### Hugging Face
-<ins>**Kategori**</ins>: platform 
+<ins>**Kategori**</ins>: tool 
 
 <ins>**Konteks**</ins>: sebenernya AI community, tapi sering dipakai orang buat akses LLM lewat API kayak marketplace-nya model AI
 > Link: <https://huggingface.co>
@@ -156,7 +152,7 @@ Bisa diklik yg di istilah buat detil konteks-konteksnya
 > Link: <https://www.cursor.com>
 
 ### Agentic
-<ins>**Kategori**</ins>: workflow 
+<ins>**Kategori**</ins>: konsep 
 
 <ins>**Konteks**</ins>: AI yang ga cuma jawab pertanyaan, tapi bisa ngambil tindakan sendiri. kayak browsing web, nulis file, atau eksekusi kode tanpa lo yang lakuin satu-satu
 > Link: <https://www.anthropic.com/research/building-effective-agents>
@@ -174,7 +170,7 @@ Bisa diklik yg di istilah buat detil konteks-konteksnya
 > Link: <https://www.minimaxi.com>
 
 ### Subagent
-<ins>**Kategori**</ins>: workflow 
+<ins>**Kategori**</ins>: konsep 
 
 <ins>**Konteks**</ins>: AI yang kerja di bawah AI lain. bayangin ada satu AI "bos" yang bagi-bagi kerjaan ke beberapa AI lain yang masing-masing spesialis di bidangnya
 > Link: <https://www.anthropic.com/research/building-effective-agents>
@@ -234,7 +230,7 @@ Bisa diklik yg di istilah buat detil konteks-konteksnya
 > Link: <https://trae.ai>
 
 ### Vibe coding
-<ins>**Kategori**</ins>: workflow 
+<ins>**Kategori**</ins>: konsep 
 
 <ins>**Konteks**</ins>: cara coding di mana lo ga harus ngerti kodenya. lo tinggal jelasin mau bikin apa, AI yang nulis kodenya, lo tinggal jalanin
 > Link: <https://x.com/karpathy/status/1886192184808149383>
@@ -264,7 +260,7 @@ Bisa diklik yg di istilah buat detil konteks-konteksnya
 > Link: <https://hunyuan.tencent.com>
 
 ### Agent2Agent (A2A)
-<ins>**Kategori**</ins>: protokol 
+<ins>**Kategori**</ins>: tool 
 
 <ins>**Konteks**</ins>: protokol dari Google buat AI agent bisa ngobrol satu sama lain. kalau MCP itu koneksi AI ke tools, A2A itu koneksi antar sesama AI agent
 > Link: <https://developers.google.com/agent2agent>
