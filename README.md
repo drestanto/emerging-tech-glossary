@@ -548,7 +548,7 @@ Bisa diklik yg di istilah buat detil konteks-konteksnya
 > Link: <https://www.cloudflare.com>
 
 ---
-> Tau istilah lain yang harusnya masuk? Open a PR atau issue!
+Tau istilah lain yang harusnya masuk? Open a [PR](https://github.com/drestanto/emerging-tech-glossary/pulls) atau [issue](https://github.com/drestanto/emerging-tech-glossary/issues)!
 
 ---
 Psssstttt!!! Ada juga repo khusus terminologi quantum computing: <https://github.com/Komputasi-Kuantum-ID/glossary>
